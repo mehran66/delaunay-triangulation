@@ -1,5 +1,5 @@
-# Delaunay-Triangulation
-Point in triangle search using the Delaunay Triangulation data structure
+# Delaunay Triangulation
+Point in triangle search using the Delaunay Triangulation data structure implemented in Matlab.
 
 
 
